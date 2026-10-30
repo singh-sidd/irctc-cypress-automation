@@ -1,10 +1,10 @@
 {
-  "TRAIN_NO": "13185",
+  "TRAIN_NO": "04097",
   "TRAIN_COACH": "3A",
-  "TRAVEL_DATE": "24/08/2024",
-  "SOURCE_STATION": "SDAH",
+  "TRAVEL_DATE": "31/10/2026",
+  "SOURCE_STATION": "JNR",
   "BOARDING_STATION": null,
-  "DESTINATION_STATION": "DBG",
+  "DESTINATION_STATION": "SSB",
   "TATKAL": true,
   "PREMIUM_TATKAL": false,
   "UPI_ID_CONFIG": "",
@@ -17,7 +17,7 @@
       "FOOD": "No Food"
     },
     {
-      "NAME": "Shivam Dubey",
+      "NAME": "Shivani Dubey",
       "AGE": 26,
       "GENDER": "Female",
       "SEAT": "No Preference",
